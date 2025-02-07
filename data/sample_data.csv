@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Country,Target
+1,Alice,25,50000,USA,1
+2,Bob,30,60000,Canada,0
+3,Charlie,35,70000,USA,1
+4,Alice,25,50000,USA,1
+5,David,40,NaN,India,0
+6,Eve,50,90000,Germany,1
+7,Frank,30,60000,Canada,0
+8,Grace,45,80000,USA,1
+9,Hannah,NaN,75000,India,0
+10,Ivy,28,62000,USA,1

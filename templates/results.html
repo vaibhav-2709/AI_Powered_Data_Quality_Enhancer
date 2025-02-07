@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Quality Report</title>
+</head>
+<body>
+    <h1>Data Processing Completed</h1>
+    <p>Total Rows: {{ total_rows }}</p>
+    <p>Anomalies Found: {{ anomalies }}</p>
+    <p>Cleaned Data Rows: {{ cleaned_rows }}</p>
+    
+    <h2>Download Cleaned Data</h2>
+    <a href="{{ download_link }}">
+        <button>Download Cleaned File</button>
+    </a>
+</body>
+</html>
