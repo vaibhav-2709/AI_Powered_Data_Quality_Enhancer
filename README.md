@@ -1,0 +1,3 @@
+Inconsistent and low-quality data negatively impact machine learning models, leading to unreliable insights. The AI-Powered Data Quality Enhancer automates the process of data cleaning, anomaly detection, and deduplication, ensuring that datasets are accurate, reliable, and ready for downstream AI/ML tasks.
+
+This project detects and corrects missing values, duplicates, and anomalies using AI-powered techniques, reducing preprocessing time and improving data integrity. Additionally, a Flask-based web dashboard provides an intuitive interface for users to upload datasets, view quality reports, and download cleaned files.
